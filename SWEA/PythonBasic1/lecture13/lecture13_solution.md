@@ -1,11 +1,3 @@
-문제
-
-```
-임의의 양의 정수를 입력받아 그 정수의 모든 약수를 구하십시오
-```
-
-답
-
 ```python
 import sys
 sys.stdin = open("input.txt", "r")
