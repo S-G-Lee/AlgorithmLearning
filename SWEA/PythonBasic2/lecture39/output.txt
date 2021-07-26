@@ -1,0 +1,3 @@
+protocol: http
+host: www.example.com
+others: test?p=1&q=2
