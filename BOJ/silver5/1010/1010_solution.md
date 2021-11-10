@@ -1,8 +1,4 @@
 ```python
-import sys
-sys.stdin = open('boj/silver5/1010/input.txt')
-
-
 def combination(n, m):
     temp = 1
     for i in range(1, n+1):
